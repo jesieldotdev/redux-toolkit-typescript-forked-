@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 8px;
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.user_card {
+  display: flex;
+  /* background-color: #363636;
+  color: #fefefe; */
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin: 8px;
+  border-radius: 8px;
+  justify-content: center;
+}
+
+.user_card p {
+  margin-right: 8px;
+}
+
+.user_card button {
+  height: min-content;
+  margin-top: 8px;
+}
